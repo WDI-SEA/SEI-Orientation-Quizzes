@@ -29,4 +29,35 @@
 * d) Assigns a boolean value type when appropriately matched to the incoming data
 * e) None of the above
 
-#### 4) 
+
+**Consider the following code, then answer questions 4 and 5**
+
+*HTML*
+
+```html
+<div class="container">
+  <p id="title">Hello SEI!</p>
+  <p id="subtitle">Welcome!</p>
+</div>
+```
+
+*CSS*
+
+```css
+.container {
+  color: blue;
+  font-weight: bold;
+}
+
+#title {
+  text-decoration: underline;
+  color: purple;
+}
+
+#subtitle {
+  font-size: 11px;
+  color: chartreuse;
+}
+```
+
+#### 4) What will the text `"Hello SEI!"` look like after the code is run?
