@@ -57,3 +57,11 @@ else if (numPeople > 0) {
 * c) Evaluates to an array
 * d) Doesn't evaluate because we need `===` instead of `==`
 * e) Doesn't evaluate because we need `=` instead of `==`
+
+#### 6) In the above code, what prints out? (1 point)
+
+* a) 'Hello future student!'
+* b) 'Hello to both of you future students!'
+* c) 'Hello SEI class!'
+* d) Both b and c
+* e) None of the Above
