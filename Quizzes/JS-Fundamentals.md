@@ -73,3 +73,11 @@ else if (numPeople > 0) {
 * c) Factorials (Like in mathematics)
 * d) Aggregation (of statistics, such as mean, standard deviation, etc)
 * e) Interpolation (i.e., to queue the injection points for the arguments)
+
+#### 8) The line `i++` does what? (2 points)
+
+* a) Adds one to the number `i`
+* a) Is equivalent to `i = i + 1`
+* a) Is equivalent to `i += 1`
+* a) All of the Above
+* e) None of the Above
