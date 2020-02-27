@@ -47,6 +47,7 @@
 .container {
   color: blue;
   font-weight: bold;
+  text-decoration: none;
 }
 
 #title {
