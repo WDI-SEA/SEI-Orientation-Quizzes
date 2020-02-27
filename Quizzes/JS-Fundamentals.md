@@ -81,3 +81,11 @@ else if (numPeople > 0) {
 * a) Is equivalent to `i += 1`
 * a) All of the Above
 * e) None of the Above
+
+#### 9) What does a multi-line comment (A comment that spans multiple lines) look like in JavaScript? (1 point)
+
+* a) <!-- This -->
+* b) <% This %>
+* c) {{ This }}
+* d) # This #
+* e) /* Or This */
