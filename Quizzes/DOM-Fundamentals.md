@@ -121,3 +121,11 @@ div {
 * c) Iframe Embedding
 * d) The abbreviated `<font>` tag from HTML4
 * e) Internal CSS
+
+#### 10) How can JavaScript be used to dynamically alter the color of the following element: `<p id="paragraph">Hello</p>`? (1 point)
+
+* a) var p.color = "red"
+* b) document.p.styles.colors = "red"
+* c) document.getElementById("color:red").styles = "paragraph"
+* d) document.getElementById("paragraph").styles.color = "red"
+* e) document.getElementById("paragraph") = "red"
