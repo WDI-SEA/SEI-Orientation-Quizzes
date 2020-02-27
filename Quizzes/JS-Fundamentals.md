@@ -29,4 +29,31 @@
 * d) Assigns a boolean value type when appropriately matched to the incoming data
 * e) None of the above
 
+#### 4) An `else` can live independently from an `if` statement. True or False? (1 point)
 
+* a) True
+* b) False
+* c) All of the Above 
+
+**Consider the following code, then answer questions 5 and 6**
+
+```js
+let numPeople = 2;
+if (numPeople == 1) {
+  console.log('Hello future student!');
+}
+else if (numPeople == 2) {
+  console.log('Hello to both of you future students!');
+}
+else if (numPeople > 0) {
+  console.log('Hello SEI class!');
+}
+```
+
+#### 5) An `if` statement includes a conditional piece. In the code above, this condition is `numPeople == 1`. This conditional: (1 point)
+
+* a) Evaluates to a boolean
+* b) Evaluates to an integer
+* c) Evaluates to an array
+* d) Doesn't evaluate because we need `===` instead of `==`
+* e) Doesn't evaluate because we need `=` instead of `==`
