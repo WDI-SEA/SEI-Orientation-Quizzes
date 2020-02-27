@@ -96,7 +96,7 @@
 
 ```html
 <div>
-  <p id="red" class="blue" style="color:green">Welcome to CSS!</p>
+  <p id="red" class="blue" style="color:green">CSS - You'll Learn to Love It!</p>
 </div>
 ```
 
