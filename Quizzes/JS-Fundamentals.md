@@ -65,3 +65,11 @@ else if (numPeople > 0) {
 * c) 'Hello SEI class!'
 * d) Both b and c
 * e) None of the Above
+
+#### 7) The `!` operator (sometimes called a "bang") is used for: (1 point)
+
+* a) Negation (i.e., Not)
+* b) Inversion (i.e., Absolute Value)
+* c) Factorials (Like in mathematics)
+* d) Aggregation (of statistics, such as mean, standard deviation, etc)
+* e) Interpolation (i.e., to queue the injection points for the arguments)
