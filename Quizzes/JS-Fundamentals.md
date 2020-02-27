@@ -13,7 +13,7 @@
 * `var x = 5;`
 * `var = x;`
 
-#### 2) What does `===` do that `==` doesn't?
+#### 2) What does `===` do that `==` doesn't? (1 point)
 
 * a) Checks for equality (instead of assignment)
 * b) Checks for a deep copy of an array
@@ -21,7 +21,7 @@
 * d) Assigns a boolean value type when appropriately matched to the incoming data
 * e) None of the above
 
-#### 3) What does `==` do that `=` doesn't?
+#### 3) What does `==` do that `=` doesn't? (1 point)
 
 * a) Checks for equality (instead of assignment)
 * b) Checks for a deep copy of an array
@@ -29,3 +29,4 @@
 * d) Assigns a boolean value type when appropriately matched to the incoming data
 * e) None of the above
 
+#### 4) 
