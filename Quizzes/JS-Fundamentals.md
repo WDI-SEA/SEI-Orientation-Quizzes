@@ -1,6 +1,6 @@
 # JavaScript Fundamentals
 
-## Your Name: _____________________  Number Correct: ____________________
+## Your Name: ______________________ Your Score: ___________________
 
 #### 1) In JavaScript, how can I declare a variable? (Circle ALL correct answers - there may be more than one! 8 points)
 
