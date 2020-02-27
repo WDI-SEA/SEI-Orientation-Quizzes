@@ -62,4 +62,8 @@
 
 #### 4) What will the text `"Hello SEI!"` look like after the code is run?
 
-* a) It will be underlined
+* a) It will be underlined, bold, and blue
+* b) It will be bold and blue but not underlined
+* c) It will be underlined, bold, and purple
+* d) It will be underlined and purple but not bold 
+* e) It will be black text not bold or underlined 
