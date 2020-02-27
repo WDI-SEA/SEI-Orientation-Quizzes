@@ -61,3 +61,5 @@
 ```
 
 #### 4) What will the text `"Hello SEI!"` look like after the code is run?
+
+* a) It will be underlined
