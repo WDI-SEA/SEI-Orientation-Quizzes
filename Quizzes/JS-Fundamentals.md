@@ -84,8 +84,8 @@ else if (numPeople > 0) {
 
 #### 9) What does a multi-line comment (A comment that spans multiple lines) look like in JavaScript? (1 point)
 
-* a) <!-- This -->
-* b) <% This %>
-* c) {{ This }}
-* d) # This #
-* e) /* Or This */
+* a) `<!-- This -->`
+* b) `<% This %>`
+* c) `{{ This }}`
+* d) `# This #`
+* e) `/* Or This */`
