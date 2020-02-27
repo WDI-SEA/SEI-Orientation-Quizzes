@@ -91,3 +91,33 @@
 * d) It will be underlined and purple but not bold 
 * e) It will be black text not bold or underlined 
 
+
+**Consider the following code and then answer questions 8 and 9**
+
+```html
+<div>
+  <p id="red" class="blue" style="color:green">Welcome to CSS!</p>
+</div>
+```
+
+```css
+div {
+  color: yellow;
+}
+```
+
+#### 8) What color will the text be? (1 point)
+
+* a) Red
+* b) Yellow
+* c) Blue
+* d) Green
+* e) Black
+
+#### 9) The style attribute with CSS `style="color:green"` above is an example of: (1 point)
+
+* a) Embedded Stylesheets
+* b) Inline Styling
+* c) Iframe Embedding
+* d) The abbreviated `<font>` tag from HTML4
+* e) Internal CSS
